@@ -5,5 +5,5 @@ Scriptet er meget simpelt;
 
 Eksempel;
 
-`<username>:~$ reverseme hello  
-olleh`
+`<username>:~$ reverseme hello`  
+`olleh`
